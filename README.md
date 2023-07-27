@@ -1,4 +1,4 @@
-I am a UTSA student currently majoring in *fill in your major*.
+I am a UTSA student currently majoring in Cyber Security (to be added with my preexisting English degree).
 
 :hammer_and_wrench: Technical Skills
 <div>
@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in *fill in your major*.
 </div>
 <p> </p>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/your-profile-url/">
+  <a href="[https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/henry-elliott-b3b40010b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
